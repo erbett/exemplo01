@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exemplo01</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Entre com seu nome:</string>
+    
+    <string name="button_entrar_string">OK</string>
+	<string name="button_limpar_string">Limpar</string>
+</resources>
